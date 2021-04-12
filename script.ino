@@ -28,7 +28,7 @@ String input(String argName) {
   a.substring(0,200); return a; }
 
 String footer() { return 
-  "</div><div class=q><a>&#169; Made by Walter Pope, Hack Ethically ;) </a></div>";
+  "</div><div class=q><a>&#169; Made by a user, Hack Ethically ;) </a></div>";
 }
 
 String header(String t) {
